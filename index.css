@@ -1,0 +1,59 @@
+/* body{
+    background: darkslateblue;
+}
+
+.imgBox{
+    background-image: url('download.jpg');
+    position: relative;
+    top: 7px;
+    left: 5px;
+    height: 145px;
+    width: 145px;
+    cursor: pointer;
+}
+
+.whiteBox{
+    display: inline-block;
+    height: 155px;
+    width: 155px;
+    margin: 10px;
+    background-color: white;
+    border: 3px black solid;
+}
+
+.hold{
+    border: solid red 4px;
+}
+
+.dashed{
+    background: rgb(214, 206, 206);
+    border-style: dashed;
+}
+
+.hide{
+    display: none;
+} */
+body{
+    background-color: rgb(190, 108, 122);
+}
+
+.whitebox{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    display: inline-block;    
+
+}
+.imgbox{
+    width: 350px;
+    height: 350px;
+    background-image: url(download.jpg);
+    cursor: pointer;
+}
+.drgstart{
+
+    border: solid red 4px;
+}
+.hide{
+    display: none;
+}
